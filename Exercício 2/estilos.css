@@ -1,0 +1,17 @@
+/* CSS Document */
+
+body{
+	background-color: pink; /* define o background do body na cor rosa */
+}
+
+h1{
+	font-size: 20px; /*define o tamanho da fonte h1 para 20px*/
+}
+
+h2{
+	color: red; /*define a cor da fonte h2 para vermelho*/
+}
+
+p{
+	margin-left: 50px; /*define uma margem na tag p de 50px*/
+}
